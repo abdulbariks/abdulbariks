@@ -4,11 +4,11 @@
 <br>
 
 <div style="display: flex">
-  <a href="https://abdul-barik-portfolio.vercel.app/"> <img src="images/WEBSITE.svg" alt="" height="35px" width="auto"></a>
-  <a href="https://www.linkedin.com/in/abdul-barik1997/"> <img src="images/LINKEDIN.svg" alt="" height="35px" width="auto"></a>
-  <a href="https://www.facebook.com/Abdul.Barik.1997"><img src="images/FACEBOOK.svg" alt="" height="35px" width="auto"></a>
-   <a href="https://twitter.com/Md_Abdul_Barik"><img src="images/TWITTER.svg" alt="" height="35px" width="auto"></a>
-   <a href="https://www.youtube.com/@abdulbarik8716"><img src="images/YOUTUBE.svg" alt="" height="35px" width="auto"></a>
+  <a href="https://abdul-barik-portfolio.vercel.app/" target="_blank"> <img src="images/WEBSITE.svg" alt="" height="35px" width="auto"></a>
+  <a href="https://www.linkedin.com/in/abdul-barik1997/" target="_blank"> <img src="images/LINKEDIN.svg" alt="" height="35px" width="auto"></a>
+  <a href="https://www.facebook.com/Abdul.Barik.1997" target="_blank"><img src="images/FACEBOOK.svg" alt="" height="35px" width="auto"></a>
+   <a href="https://twitter.com/Md_Abdul_Barik" target="_blank"><img src="images/TWITTER.svg" alt="" height="35px" width="auto"></a>
+   <a href="https://www.youtube.com/@abdulbarik8716" target="_blank"><img src="images/YOUTUBE.svg" alt="" height="35px" width="auto"></a>
 </div>
 <br>
 
