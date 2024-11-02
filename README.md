@@ -22,6 +22,7 @@ I’m Abdul Barik, a passionate Full Stack Web Application Developer with a knac
 👨🏽‍💻 &nbsp; Technical Expertise:
 <div style="display: flex">
    <img src="images/html.svg" alt="HTML" height="35px" width="auto">
+   <img src="images/css.svg" alt="CSS" height="35px" width="auto">
    <img src="images/t-css.svg" alt="TAILWIND CSS" height="35px" width="auto">
    <img src="images/javascript.svg" alt="JavaScript" height="35px" width="auto">
    <img src="images/react.svg" alt="React" height="35px" width="auto">
