@@ -27,10 +27,9 @@ I’m Abdul Barik, a passionate Full Stack Web Application Developer with a knac
    <img src="images/javascript.svg" alt="JavaScript" height="35px" width="auto">
    <img src="images/react.svg" alt="React" height="35px" width="auto">
    <img src="images/next.svg" alt="Next" height="35px" width="auto">
-    <img src="images/vue.svg" alt="Vue" height="35px" width="auto">
 </div>
 <p align="justify">
-<b>Front-End:</b> I have a solid command of HTML, CSS, and JavaScript, and I’m adept at working with modern frameworks and libraries such as React, Next.js, and Vue.js. My focus is on creating intuitive and responsive user interfaces that enhance user experience.
+<b>Front-End:</b> I have a solid command of HTML, CSS, and JavaScript, and I’m adept at working with modern frameworks and libraries such as React and Next.js. My focus is on creating intuitive and responsive user interfaces that enhance user experience.
 </p>
 <div style="display: flex">
    <img src="images/node.svg" alt="Node" height="35px" width="auto">
