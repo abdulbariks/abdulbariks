@@ -34,10 +34,11 @@ I’m Abdul Barik, a passionate Full Stack Web Application Developer with a knac
 <div style="display: flex">
    <img src="images/node.svg" alt="Node" height="35px" width="auto">
    <img src="images/express.svg" alt="ExpressJs" height="35px" width="auto">
-   <img src="images/php.svg" alt="PHP" height="35px" width="auto">
+   <img src="images/python.svg" alt="Python" height="35px" width="auto">
+   <img src="images/mongobd.svg" alt="MongoDB" height="35px" width="auto">
    <img src="images/mysql.svg" alt="MySQL" height="35px" width="auto">
    <img src="images/postgresql.svg" alt="PostgreSQL" height="35px" width="auto">
-   <img src="images/mongobd.svg" alt="MongoDB" height="35px" width="auto">
+   
 </div>
 <p align="justify">
 <b>Back-End:</b> On the server side, I work with languages and frameworks such as Node.js, ExpressJs and PHP. I’m skilled in designing robust APIs, managing databases with SQL (MySQL, PostgreSQL) and NoSQL (MongoDB), and ensuring that applications run smoothly and securely.
