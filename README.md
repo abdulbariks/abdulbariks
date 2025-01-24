@@ -36,6 +36,5 @@ I’m Abdul Barik, a passionate Full Stack Web Application Developer with a knac
    <img src="images/postgresql.svg" alt="PostgreSQL" height="35px" width="auto">
    <img src="images/vscode.svg" alt="vscode" height="35px" width="auto">
    <img src="images/git.svg" alt="it" height="35px" width="auto">
-   <img src="images/ci-cd.svg" alt="CI/CD" height="35px" width="auto">
    <img src="images/docker.svg" alt="Docker" height="35px" width="auto">
 </div>
