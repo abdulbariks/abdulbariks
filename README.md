@@ -63,7 +63,7 @@ Passionate Full Stack Developer from Bangladesh 🇧🇩 with a strong interest 
   <img src="https://github-readme-stats.vercel.app/api?username=abdulbariks&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" width="47%" alt="abdulbariks GitHub Stats"/>
 
   <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=abdulbariks&theme=radical&hide_border=false" width="47%" alt="abdulbariks GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=abdulbariks&theme=radical&hide_border=false" width="47%" />
 </p>
 
 <p align="center">
@@ -84,5 +84,5 @@ Passionate Full Stack Developer from Bangladesh 🇧🇩 with a strong interest 
 ## 🌐 Contribution Graph
 
 <p align="center">
-  <img src="https://github-contribution-graph.ezraobiwale.dev/api?username=abdulbariks&bg_color=1f1f1f&color=38bdf8&line=2dd4bf&point=facc15&area=true&hide_border=true" alt="abdulbariks GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulbariks&theme=react-dark&bg_color=1f1f1f&hide_border=true" />
 </p>
