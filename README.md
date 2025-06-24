@@ -56,13 +56,33 @@ Passionate Full Stack Developer from Bangladesh 🇧🇩 with a strong interest 
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Analytics & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourgithub&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourgithub&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="47%" />
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=abdulbariks&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" width="47%" alt="abdulbariks GitHub Stats"/>
+
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=abdulbariks&theme=radical&hide_border=false" width="47%" alt="abdulbariks GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithub&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulbariks&layout=compact&theme=radical&hide_border=false" width="47%" alt="abdulbariks Top Languages" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abdulbariks&theme=gruvbox&no-frame=true&margin-w=10" alt="abdulbariks GitHub Trophies" />
+</p>
+
+---
+
+## 🌐 Contribution Graph
+
+<p align="center">
+  <img src="https://github-contribution-graph.ezraobiwale.dev/api?username=abdulbariks&bg_color=1f1f1f&color=38bdf8&line=2dd4bf&point=facc15&area=true&hide_border=true" alt="abdulbariks GitHub Contribution Graph" />
 </p>
