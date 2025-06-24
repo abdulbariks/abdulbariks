@@ -60,10 +60,12 @@ Passionate Full Stack Developer from Bangladesh 🇧🇩 with a strong interest 
 
 <p align="center">
   <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulbariks&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" width="47%" alt="abdulbariks GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abdulbariks&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" width="100%" alt="abdulbariks GitHub Stats"/>
+</p>
 
+<p align="center">
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulbariks&layout=compact&theme=radical&hide_border=false" width="47%" alt="abdulbariks Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulbariks&layout=compact&theme=radical&hide_border=false" width="100%" alt="abdulbariks Top Languages" />
 </p>
 
 ---
