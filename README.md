@@ -40,7 +40,7 @@ I’m Abdul Barik, a passionate Full Stack Web Application Developer with a knac
 </div> -->
 
 <!-- Banner -->
-<img src="https://i.imgur.com/YOUR_BANNER_IMAGE_LINK.png" alt="Banner" width="100%" />
+<img src="images/github-header-image.png" alt="Banner" width="100%" />
 
 <h1 align="center">Hi there, I'm Abdul Barik 👋</h1>
 <h3 align="center">Full Stack Web Developer | MERN Stack | Open Source Enthusiast</h3>
