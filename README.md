@@ -72,6 +72,14 @@ Passionate Full Stack Developer from Bangladesh 🇧🇩 with a strong interest 
 
 ---
 
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=abdulbariks&theme=radical&hide_border=false" width="100%" alt="abdulbariks GitHub Streak Stats"/>
+</p>
+
+---
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
