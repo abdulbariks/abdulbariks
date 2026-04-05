@@ -31,7 +31,7 @@ Passionate Full Stack Developer from Bangladesh 🇧🇩 with a strong interest 
 
 ## 🚀 Currently Exploring / Working On
 
-- 🌐 Building a **tourism website** using the MERN Stack.
+- 🌐 Building a **tourism website** using the Full Stack.
 - 🧪 Exploring **Next.js** and **server-side rendering** techniques.
 - 🔐 Improving **security** in user authentication flows.
 - 🎯 Working on my personal **task manager app** for better productivity.
@@ -58,32 +58,10 @@ Passionate Full Stack Developer from Bangladesh 🇧🇩 with a strong interest 
 
 ---
 
-## 📊 GitHub Analytics & Activity
-
-<p align="center">
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulbariks&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" width="100%" alt="abdulbariks GitHub Stats"/>
-</p>
-
-<p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulbariks&layout=compact&theme=radical&hide_border=false" width="100%" alt="abdulbariks Top Languages" />
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=abdulbariks&theme=radical&hide_border=false" width="100%" alt="abdulbariks GitHub Streak Stats"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdulbariks&theme=gruvbox&no-frame=true&margin-w=10" alt="abdulbariks GitHub Trophies" />
 </p>
 
 ---
