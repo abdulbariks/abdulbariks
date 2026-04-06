@@ -29,15 +29,6 @@ Passionate Full Stack Developer from Bangladesh 🇧🇩 with a strong interest 
 
 ---
 
-## 🚀 Currently Exploring / Working On
-
-- 🌐 Building a **tourism website** using the Full Stack.
-- 🧪 Exploring **Next.js** and **server-side rendering** techniques.
-- 🔐 Improving **security** in user authentication flows.
-- 🎯 Working on my personal **task manager app** for better productivity.
-
----
-
 ## 🛠️ Skills
 
 <p align="center">
@@ -52,8 +43,14 @@ Passionate Full Stack Developer from Bangladesh 🇧🇩 with a strong interest 
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI/CD-222222?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
 ---
